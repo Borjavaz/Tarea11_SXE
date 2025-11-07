@@ -136,18 +136,30 @@ A continuacion tenemos que entrar el los puertos que definimos antes:
 
 ### `8080`
 
+Cuando entramos a este puerto, se nos abre este menu.
+Tenemos que meter los datos que declaramos anteriormente en el .yml para el gestor de DB.
+
 <img width="953" height="719" alt="image" src="https://github.com/user-attachments/assets/491e8663-e15a-4151-9a85-08be0dd36f5e" />
+
+Cuando entramos en el gestor esto es lo que se vería:
 
 <img width="953" height="719" alt="image" src="https://github.com/user-attachments/assets/d15f32b1-52bf-4e49-ab94-fbfc3fb5ebbf" />
 
 
 ### `8069`
 
+Cuando entramos a este puerto, se nos abre este menu.
 
-<img width="731" height="78" alt="image" src="https://github.com/user-attachments/assets/f576c3a1-70db-4603-b284-b5f6860f57c9" />
+Rellenamos los campos con nuestra información para crear una base de datos.
 
+Es importante seleccionar la casilla de `Demo Data`.
 
 <img width="915" height="889" alt="image" src="https://github.com/user-attachments/assets/87c02540-310f-486b-82db-3d4c540ac852" />
+
+Cuando creamos la base de datos, nos lleva a otra pagina para registrarnos.
+
+Completamos estos campos con la información que pusimos antes, para iniciar sesion.
+
 
 <img width="306" height="428" alt="image" src="https://github.com/user-attachments/assets/cd898776-66eb-40ea-a40c-3bf6039d1406" />
 
@@ -156,5 +168,20 @@ A continuacion tenemos que entrar el los puertos que definimos antes:
 
 ## Explorar Odoo con Datos de Demo
 
+Cuando iniciamos sesion en Odoo, veremos algo así:
+
 <img width="1920" height="516" alt="image" src="https://github.com/user-attachments/assets/f3a11338-edab-4183-9fcb-c1426c01d6cf" />
+
+Cuando entro al apartado de ventas se me abre esta ventana:
+
+<img width="958" height="585" alt="image" src="https://github.com/user-attachments/assets/77e35f97-f52a-4cb2-b786-45d3942789b4" />
+
+<img width="958" height="585" alt="image" src="https://github.com/user-attachments/assets/8aa01fa9-40eb-4277-a947-ff98e9afb8a2" />
+<img width="958" height="585" alt="image" src="https://github.com/user-attachments/assets/0362217a-a98e-4f36-ae2a-5a83e6104573" />
+<img width="958" height="379" alt="image" src="https://github.com/user-attachments/assets/c89e0005-16ab-4f5f-a77d-7e4f190f9d0c" />
+
+
+<img width="956" height="1011" alt="image" src="https://github.com/user-attachments/assets/4a81d1f9-b574-4c2f-b611-abd2b0c1ed9a" />
+
+
 
