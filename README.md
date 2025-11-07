@@ -113,3 +113,48 @@ formateado automático y autocompletado.
     depends_on:
       - postgresql
 ```
+
+---
+
+## Levantar contenedores
+
+Tenemos que iniciar docker
+
+Despues entramos a la carpeta donde esta el .yml y ejecutar el siguiente comando:
+
+```bash
+docker compose up
+```
+
+<img width="731" height="78" alt="image" src="https://github.com/user-attachments/assets/ac597337-d2b1-4e92-a369-2ce4c60c8e54" />
+
+En docker se deveria ver asi:
+
+<img width="956" height="413" alt="image" src="https://github.com/user-attachments/assets/fcecbe88-d280-489e-80d1-4f47e9a01259" />
+
+A continuacion tenemos que entrar el los puertos que definimos antes:
+
+### `8080`
+
+<img width="953" height="719" alt="image" src="https://github.com/user-attachments/assets/491e8663-e15a-4151-9a85-08be0dd36f5e" />
+
+<img width="953" height="719" alt="image" src="https://github.com/user-attachments/assets/d15f32b1-52bf-4e49-ab94-fbfc3fb5ebbf" />
+
+
+### `8069`
+
+
+<img width="731" height="78" alt="image" src="https://github.com/user-attachments/assets/f576c3a1-70db-4603-b284-b5f6860f57c9" />
+
+
+<img width="915" height="889" alt="image" src="https://github.com/user-attachments/assets/87c02540-310f-486b-82db-3d4c540ac852" />
+
+<img width="306" height="428" alt="image" src="https://github.com/user-attachments/assets/cd898776-66eb-40ea-a40c-3bf6039d1406" />
+
+
+---
+
+## Explorar Odoo con Datos de Demo
+
+<img width="1920" height="516" alt="image" src="https://github.com/user-attachments/assets/f3a11338-edab-4183-9fcb-c1426c01d6cf" />
+
