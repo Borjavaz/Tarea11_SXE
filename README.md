@@ -183,5 +183,13 @@ Cuando entro al apartado de ventas se me abre esta ventana:
 
 <img width="956" height="1011" alt="image" src="https://github.com/user-attachments/assets/4a81d1f9-b574-4c2f-b611-abd2b0c1ed9a" />
 
+<img width="957" height="399" alt="image" src="https://github.com/user-attachments/assets/c9e79f55-8c9c-4476-a0cb-2d936424972e" />
+
+<img width="957" height="622" alt="image" src="https://github.com/user-attachments/assets/540e6e9f-0563-4106-8525-4a29e2afb4aa" />
+
+<img width="1920" height="867" alt="image" src="https://github.com/user-attachments/assets/5983bcb4-dbfe-4880-9f5b-67ee908575d8" />
+
+<img width="1920" height="554" alt="image" src="https://github.com/user-attachments/assets/af86df4c-b176-4012-bff3-0396400c920a" />
+
 
 
