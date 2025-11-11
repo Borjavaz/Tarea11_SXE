@@ -145,6 +145,9 @@ Cuando entramos en el gestor esto es lo que se vería:
 
 <img width="953" height="719" alt="image" src="https://github.com/user-attachments/assets/d15f32b1-52bf-4e49-ab94-fbfc3fb5ebbf" />
 
+<img width="1920" height="554" alt="image" src="https://github.com/user-attachments/assets/af86df4c-b176-4012-bff3-0396400c920a" />
+
+
 
 ### `8069`
 
@@ -172,24 +175,23 @@ Cuando iniciamos sesion en Odoo, veremos algo así:
 
 <img width="1920" height="516" alt="image" src="https://github.com/user-attachments/assets/f3a11338-edab-4183-9fcb-c1426c01d6cf" />
 
-Cuando entro al apartado de ventas se me abre esta ventana:
+Tengo que activar las siguientes aplicaciones:
 
-<img width="958" height="585" alt="image" src="https://github.com/user-attachments/assets/77e35f97-f52a-4cb2-b786-45d3942789b4" />
+- Ventas
+- Compras
+- Contactos
 
-<img width="958" height="585" alt="image" src="https://github.com/user-attachments/assets/8aa01fa9-40eb-4277-a947-ff98e9afb8a2" />
-<img width="958" height="585" alt="image" src="https://github.com/user-attachments/assets/0362217a-a98e-4f36-ae2a-5a83e6104573" />
+<br><br>
+
 <img width="958" height="379" alt="image" src="https://github.com/user-attachments/assets/c89e0005-16ab-4f5f-a77d-7e4f190f9d0c" />
 
-
-<img width="956" height="1011" alt="image" src="https://github.com/user-attachments/assets/4a81d1f9-b574-4c2f-b611-abd2b0c1ed9a" />
+<br><br>
 
 <img width="957" height="399" alt="image" src="https://github.com/user-attachments/assets/c9e79f55-8c9c-4476-a0cb-2d936424972e" />
 
-<img width="957" height="622" alt="image" src="https://github.com/user-attachments/assets/540e6e9f-0563-4106-8525-4a29e2afb4aa" />
 
-<img width="1920" height="867" alt="image" src="https://github.com/user-attachments/assets/5983bcb4-dbfe-4880-9f5b-67ee908575d8" />
 
-<img width="1920" height="554" alt="image" src="https://github.com/user-attachments/assets/af86df4c-b176-4012-bff3-0396400c920a" />
+
 
 
 
